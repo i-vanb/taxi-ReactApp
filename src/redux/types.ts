@@ -1,0 +1,12 @@
+export const SET_POSITION = 'SET_POSITION'
+export const ERROR_ADDRESS_TOGGLE = 'ERROR_ADDRESS_TOGGLE'
+export const SET_ADDRESS = 'SET_ADDRESS'
+export const SET_SUGGESTIONS = 'SET_SUGGESTIONS'
+export const TOGGLE_IS_REVERSE = 'TOGGLE_IS_REVERSE'
+
+export const SET_CREW_LIST = 'SET_CREW_LIST'
+
+export const SET_ORDER = 'SET_ORDER'
+
+
+
